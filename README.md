@@ -1,4 +1,4 @@
-# Simulacion-de-circuitos-electronicos
-Veremos como simular con LTSPICE en Ubuntu y como hacerlo en KiCAD 
+# MicroBlocks-ESP32_STEAMakers-TdRSTRAM
+Trabajar con ESP32 desde MicroBlocks utilizando la placa ESP32 STEAMakers y la Shield Imagina TdRSTEAM
 
-[Acceso a los contenidos](https://fgcoca.github.io/Simulacion-de-circuitos-electronicos/)
+[Acceso a los contenidos](https://fgcoca.github.io/MicroBlocks-ESP32_STEAMakers-TdRSTRAM/)
