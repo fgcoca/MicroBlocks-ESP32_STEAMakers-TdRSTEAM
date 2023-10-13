@@ -41,6 +41,11 @@ nav:
     - A2- Diodo LED RGB: actividades/A2.md
     - A3- Zumbador: actividades/A3.md
     - A4- Pulsadores: actividades/A4.md
+    - A5- El potenciómetro: actividades/A5.md
+    - A6- La fotorresistencia o LDR: actividades/A6.md
+    - A7- El sensor de temperatura LM35D: actividades/A7.md
+    - A8- El sensor de temperatura y humedad DHT-11: actividades/A8.md
+    - A9- Emisor y receptor de infrarrojos: actividades/A9.md
   - Miscelanea:
     - Autor: Miscelanea/about.md 
     - Licencias: Miscelanea/lic.md
